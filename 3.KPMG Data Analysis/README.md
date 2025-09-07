@@ -186,7 +186,7 @@ and potential value.
 #### 1. CLV Calculation:
   * Use the formula
   * Calculate CLV for each customer using transaction data.
-    <img width="413" height="344" alt="Screenshot 2025-09-07 172050" src="https://github.com/user-attachments/assets/b2df71c1-b6d2-4fe3-88ed-f1f131ce1f6f" />
+<img width="413" height="344" alt="Screenshot 2025-09-07 172050" src="https://github.com/user-attachments/assets/b2df71c1-b6d2-4fe3-88ed-f1f131ce1f6f" />
 
 #### 2. Segment CLV Analysis:
   * Show average CLV by wealth_segment.
