@@ -250,6 +250,12 @@ and potential value.
    * Introduce premium models under the Touring product line to attract High Net Worth customers.
    * Focus on top-selling brands like Solex and WeareA2B for maximum revenue impact.
 
+ ---
+
+ **Data Integrity Note**: Analysis of customer IDs revealed that **507 out of 4000 registered customers (12.7%) have no associated transactions**. This represents a segment of potential customers who have registered but have not yet made a purchase. It is worth noting that this is likely a **credit to the business's marketing effectiveness** in attracting leads, but also highlights a significant opportunity to improve conversion rates. For accuracy, these customers have been included in all segmentation and CLV analysis with $0.00 spent and 0 transactions.
+
+ ---
+
 
 
 
