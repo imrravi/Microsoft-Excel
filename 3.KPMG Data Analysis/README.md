@@ -154,7 +154,7 @@ and potential value.
 
 ---
 
-#### Task 4: New Customer Insights (12 Marks, 4-4 for each)
+#### Task 4: New Customer Insights 
 **Objective**: Analyze the new customer dataset to provide insights into potential new customer behavior and value.
 #### 1. New Customer Demographics:
   * Show the distribution of new customers by wealth_segment and job_industry_category.
