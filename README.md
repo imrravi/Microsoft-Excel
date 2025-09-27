@@ -27,6 +27,11 @@ Clean and analyze Customer Demographics, Transactions and New Customer Insights 
 
 ---
 
+### 4. ESG
+Analyzes a manufacturing company's environmental performance using emissions, operational, and supplier data. Proposes a Net-Zero 2050 roadmap with process optimization, renewable energy adoption, and supplier engagement strategies, while integrating Life Cycle Assessment (LCA) into operations and product design.
+																							
+<img width="2497" height="953" alt="image" src="https://github.com/user-attachments/assets/a30d3520-d80d-4c38-b790-e4dacf39a1fe" />
+
 ## 📊 Tools & Techniques Used
 
 - Microsoft Excel
