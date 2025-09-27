@@ -93,6 +93,7 @@ Summarize:
 
 <img width="399" height="169" alt="image" src="https://github.com/user-attachments/assets/2fa58844-c480-44f6-9fa2-5ecec3d57f5d" />
 
+---
 ## Dashboard																				
 <img width="2497" height="953" alt="image" src="https://github.com/user-attachments/assets/028ae93d-d26c-46a8-9960-02922b49a855" />
 
@@ -102,17 +103,27 @@ Summarize:
 
 Based on the data analysis, three major challenges prevent the company from achieving its Net-Zero 2050 goal:
 
-**High Facility Emissions**
-A few sites, especially Adani Green and Tata Steel, produce the highest greenhouse gas (GHG) emissions, particularly in Scope 1 and Scope 3 categories.
+- **High Facility Emissions**
+Total emissions were slightly lower in 2023 compared to 2022 for some facilities.Adani Green consistently recorded the highest annual emissions, followed by Tata Steel.
 
-**Operational Inefficiencies**
-Some facilities consume high amounts of energy for each unit of production. This means even if production falls, emissions remain high because energy processes are not optimized.
+- **Operational Inefficiencies**
 
-**Supplier Sustainability Risks**
-Scope 3 emissions (from suppliers) are a big share of total emissions. Many suppliers lack transparent data, making it hard to manage the full value chain footprint.
+<img width="1018" height="169" alt="image" src="https://github.com/user-attachments/assets/aaf7dd9b-dd83-40fe-bafd-6aebb9eb8b28" />
+
+
+Analysis of production and energy data shows that some facilities, like L&T and JSW Energy, use more energy per unit of production compared to others. For example, L&T has the lowest production but the highest energy per unit, while Adani Green achieves the best energy efficiency with the lowest energy per unit. This indicates that certain facilities have less efficient processes that need improvement.
+
+- **Supplier Sustainability Risks**
+
+<img width="741" height="436" alt="image" src="https://github.com/user-attachments/assets/1de69342-ca41-4e00-b3be-b0aafc4b762a" />
+
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/098bf34b-4f4d-446d-8c52-920f1da08d2e" />
+
+The data shows that Scope 3 emissions (1,766,860 tons CO2e) from suppliers are the largest share of total emissions, even higher than Scope 1 or Scope 2. Among suppliers, Tata Steel and Adani Green have the highest carbon footprints (over 250,000 tons each). This indicates that supplier-related emissions are a major challenge and need stronger engagement and data transparency to reduce overall carbon impact.
+
 
 Source: Emissions - [wikipedia](https://en.wikipedia.org/wiki/Carbon_footprint)
-- Scope 1 = Direct emissions from your facilities (like fuel burning).
+- Scope 1 = Direct emissions from our facilities (like fuel burning).
 - Scope 2 = Indirect emissions from purchased electricity.
 - Scope 3 = All other indirect emissions in the value chain (suppliers, logistics, product use, etc.).
 
@@ -150,3 +161,31 @@ C. Supplier Engagement & Sustainability Standards
 - Design Improvements: Redesign products to use lower-impact materials or processes.
 - Decision Integration: Link LCA results to procurement, R&D, and sustainability reporting.
 - Continuous Updates: Re-run LCAs as product designs or supplier data improve.
+
+**5. Net-Zero Roadmap (2025–2050)**
+Near-Term (2025–2030)
+- 25–30% emission cut
+- Energy audits & efficiency upgrades
+- 50% renewable energy target
+- Supplier data pilot program
+
+**Mid-Term (2030–2040)**
+- 60–70% emission cut
+- Full process electrification where possible
+- Supplier science-based targets adoption
+- Digital energy management scaling
+
+**Long-Term (2040–2050)**
+- 90–100% emission cut
+- Carbon capture for residual emissions
+- 100% renewable energy across operations
+- Full supplier alignment on Net-Zero goals
+
+**6. KPIs to Track Progress**
+- Emissions per unit production (tCO₂e/ton output)
+- % renewable energy used per facility
+- Supplier emissions coverage (% suppliers reporting GHGs)
+- Scope 1, 2, 3 emissions reduction vs baseline year
+
+---
+- For the complete measure, with data preprocessing and all previous steps, download the file I have [provided](https://github.com/imrravi/Microsoft-Excel/blob/main/4.%20ESG/ESG%20Analytics.xlsx).
